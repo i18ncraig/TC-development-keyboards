@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>3</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\tulalip_lushootseed.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_aec89412e9726abc54c24bc3891c71c1</ID>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\tulalip_lushootseed.kpj</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_6b8ca07a1a073c4485d1e2f15457b19f</ID>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\tulalip_lushootseed.kpj.user</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_218f81b1ccc88276889faa1c4dd7f19c</ID>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\source\tulalip_lushootseed.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0a45cd9de7d8887d94d84216b8f5ffc1</ID>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\source\tulalip_lushootseed.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_7fc5f87c1592293bac5e4b14deb46623</ID>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\source\tulalip_lushootseed.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_d7cb2afb41b03de1a4f27fa457081def</ID>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\source\tulalip_lushootseed.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_8616ba3aa8f40a9f5e46f8bca2e36435</ID>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\source\tulalip_lushootseed.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_798ac88ea2c1bca616e11f026e84c569</ID>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\source\..\build\tulalip_lushootseed.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_77640b1863041cc7a6b4e51542456810</ID>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\source\..\build\tulalip_lushootseed.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_9977b2e88450ddc0f6712e98a20bba0c</ID>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\source\..\build\tulalip_lushootseed.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\source\..\LICENSE.md</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>tulalip_lushootseed.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\source\tulalip_lushootseed.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>tulalip_lushootseed.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\CraigC\Documents\Keyman Developer\Projects\tulalip_lushootseed\source\tulalip_lushootseed.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
